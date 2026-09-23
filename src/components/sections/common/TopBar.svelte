@@ -38,7 +38,7 @@
 		<button
 			type="button"
 			onclick={() => editorModule.export('html')}
-			class="label-lg bg-brand text-brand-contrast flex items-center gap-2 rounded-lg px-3 py-2 transition-opacity hover:opacity-90"
+			class="label-lg bg-brand text-brand-contrast glow-brand flex items-center gap-2 rounded-lg px-3 py-2 transition-opacity hover:opacity-90"
 		>
 			<FileCode class="size-4" /> .html
 		</button>
