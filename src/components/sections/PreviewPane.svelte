@@ -6,7 +6,7 @@
 	class="border-border-subtle bg-surface-elevated flex min-h-0 flex-col overflow-hidden rounded-xl border"
 >
 	<div
-		class="border-border-subtle bg-surface-sunken text-content-muted label-md flex items-center rounded-t-xl border-b px-4 py-3"
+		class="border-border-subtle bg-surface-sunken text-content-muted label-md flex min-h-14 items-center rounded-t-xl border-b px-4 py-3"
 	>
 		Pré-visualização
 	</div>
