@@ -24,7 +24,7 @@
 </script>
 
 <div
-	class="border-border-subtle bg-surface-sunken flex flex-wrap items-center gap-1.5 rounded-t-xl border-b px-3 py-2"
+	class="border-border-subtle bg-surface-sunken flex min-h-14 flex-wrap items-center gap-1.5 rounded-t-xl border-b px-3 py-2"
 >
 	{#each actions as action (action.format)}
 		<ToolbarButton
